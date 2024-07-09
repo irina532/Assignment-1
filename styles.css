@@ -28,6 +28,7 @@
 }
 .main-part{
     background-image: url(../Assignment-1/assets/Hero-bg.png);
+    margin-bottom: 80px;
 }
 .first-paragraph{
     margin-top: 24px;
@@ -55,4 +56,35 @@
 .p-h2-cls{
     display: flex;
     flex-direction: column;
+}
+#section-id{
+    border-radius: 16px;
+
+    background: rgba(13, 19, 33, 0.02);
+
+    
+}
+
+.why-web-cls{
+    margin: 0px auto;
+    max-width: 852px;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    color: #0D1321;
+    font-family: Azeret Mono;
+}
+.second-paragraph{
+    font-size: 16px;
+    font-family: Azeret Mono;
+    opacity: 0.7px;
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.div-1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
