@@ -416,3 +416,226 @@ padding: 40px;
     padding: 40px;
     
  }
+ .support-heading{
+    margin: 0px auto;
+    max-width: 852px;
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    color: #0D1321;
+    font-family: Azeret Mono;
+    margin-top: 40px;
+
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+
+ }
+ #sec-4{
+    /* Frame 8 */
+    position: absolute;
+width: 1140px;
+height: 463px;
+left: 150px;
+right: 150px;
+top: 3600px;
+bottom: 535px;
+
+/* Auto layout 
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+margin: 11px 0px;*/
+
+
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+margin: 11px 0px;
+margin-left: auto;
+margin-right: auto;
+
+border-radius: 16px;
+
+background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),url(Email);
+background-image: url(../Assignment-1/assets/handshake.jpg);
+
+
+ }
+ .support-para{
+    font-size: 16px;
+    font-family: Azeret Mono;
+    color: rgba(13, 19, 33,0.7);
+    
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 24px;
+
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+ }
+ .i1{
+    /* Frame 7 */
+position: static;
+width: 400px;
+height: 30px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 19px 20px 19px 20px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+ }
+ .su{
+    /* Frame 8 */
+position: static;
+width: 100px;
+height: 30px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 17px 20px 17px 20px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 16px;
+ }
+ .input-cls{
+    display: flex;
+    justify-content: center;
+ }
+
+ #last{
+    /* Frame 21 */
+position: absolute;
+width: 1440px;
+height: 20px;
+left: 0;
+top: 4145px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px 150px 32px 150px;
+
+border-radius: 16px;
+
+background: rgba(13, 19, 33, 0.03);
+}
+#small{
+    /* Frame 24 */
+position: static;
+width: 1140px;
+height: 36px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+}
+#par{
+    /* An Open Commitment by Awlad Hossain */
+position: static;
+width: 456px;
+height: 23px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 16px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+#ico{
+    /* Frame 25 */
+position: static;
+width: 157.01px;
+height: 36px;
+/* Auto layout */
+display: flex;
+gap:32px;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 10px;
+}
+#small{
+    /* Frame 24 */
+position: static;
+width: 1140px;
+height: 36px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+gap: 500px;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 32px 0px;
+
+}
